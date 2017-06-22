@@ -1,0 +1,23 @@
+{
+  "name": "define-messages",
+  "version": "1.0.0",
+  "description": "define-messages from react-intl for babel-plugin-react-intl to work with other packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArsSirek/define-messages.git"
+  },
+  "keywords": [
+    "react-intl-universal",
+    "define-messages"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArsSirek/define-messages/issues"
+  },
+  "homepage": "https://github.com/ArsSirek/define-messages#readme"
+}
